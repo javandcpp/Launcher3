@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/apps_customize_application.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/apps_customize_application.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/search_drop_target_bar.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/search_drop_target_bar.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/actionbar_set_wallpaper.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/default/res/layout/actionbar_set_wallpaper.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/rename_folder.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/rename_folder.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/appwidget_not_ready.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/appwidget_not_ready.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/apps_customize_pane.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/apps_customize_pane.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/appwidget_error.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/appwidget_error.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/add_list_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/add_list_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/apps_customize_progressbar.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/apps_customize_progressbar.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/folder_icon.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/folder_icon.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/all_apps_button.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/all_apps_button.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/page_indicator_marker.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/page_indicator_marker.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/wallpaper_picker_image_picker_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/default/res/layout/wallpaper_picker_image_picker_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/hotseat.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/hotseat.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/market_button.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/market_button.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/overview_panel.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/overview_panel.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/longpress_cling_welcome_content.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/longpress_cling_welcome_content.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/user_folder.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/user_folder.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/wallpaper_picker_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/default/res/layout/wallpaper_picker_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/page_indicator.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/page_indicator.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/wallpaper_picker.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/default/res/layout/wallpaper_picker.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/drop_target_bar.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/drop_target_bar.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/longpress_cling_content.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/longpress_cling_content.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/workspace_screen.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/workspace_screen.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/wallpaper_cropper.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/default/res/layout/wallpaper_cropper.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/folder_application.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/folder_application.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/wallpaper_picker_live_wallpaper_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/default/res/layout/wallpaper_picker_live_wallpaper_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/application.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/application.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/apps_customize_widget.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/apps_customize_widget.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/wallpaper_picker_third_party_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/default/res/layout/wallpaper_picker_third_party_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout/tab_widget_indicator.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout/tab_widget_indicator.xml"
+    }
+]

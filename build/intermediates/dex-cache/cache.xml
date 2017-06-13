@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_271d36402378f449e58ed8e0fb87179f54cfc7dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="58c3ef82c231c13ae50f8abed9e5ff2277074014">
+        <dex dex="/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d8caed14b13299b5364538182e45f17ccbf2331a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qju/AndroidStudioProjects/Launcher3/app/libs/protobuf-java-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c91d3cc36375c406362304a0499699764aa3f80">
+        <dex dex="/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/2/protobuf-java-2.3.0_07c49d6b7bf9c8c7a20da662e72d2b8f3209a976/classes.dex" />
+    </item>
+
+</items>

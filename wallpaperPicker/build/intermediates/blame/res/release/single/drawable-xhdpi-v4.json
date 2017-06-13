@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_actionbar_accept.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/drawable-xhdpi/ic_actionbar_accept.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/release/drawable-xhdpi-v4/tile_picker_pressed.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/drawable-xhdpi/tile_picker_pressed.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/release/drawable-xhdpi-v4/tile_picker_focused.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/drawable-xhdpi/tile_picker_focused.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_images.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/drawable-xhdpi/ic_images.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/release/drawable-xhdpi-v4/tile_shadow_top.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/drawable-xhdpi/tile_shadow_top.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/release/drawable-xhdpi-v4/tile_shadow_bottom.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/drawable-xhdpi/tile_shadow_bottom.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/release/drawable-xhdpi-v4/tile_picker_selected.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/drawable-xhdpi/tile_picker_selected.9.png"
+    }
+]

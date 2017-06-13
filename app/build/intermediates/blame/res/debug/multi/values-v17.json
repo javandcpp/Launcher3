@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 310
+                    }
+                }
+            }
+        ]
+    }
+]

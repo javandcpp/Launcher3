@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/anim/no_anim.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/anim/no_anim.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/anim/task_open_enter.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/anim/task_open_enter.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/anim/fade_in_fast.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/anim/fade_in_fast.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/anim/fade_out_fast.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/anim/fade_out_fast.xml"
+    }
+]

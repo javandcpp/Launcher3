@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw340dp-port-v13/values-sw340dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/values-sw340dp-port/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/values-sw340dp-port/styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1106
+                    }
+                }
+            }
+        ]
+    }
+]

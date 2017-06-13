@@ -1,0 +1,25 @@
+#Tue Jun 13 17:26:19 CST 2017
+renamed.7=classes5.dex
+renamed.6=classes6.dex
+renamed.5=classes4.dex
+renamed.4=classes7.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes8.dex
+base.7=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e926f8de143ac53e0c5eb1e8ff02bf350e3bbd7
+base.6=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bce7de5b4ec38a9795cb91151f8b505dbb8e56b
+base.5=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c128a4bf324ab17584ea4ae8c5b570e6b5411558
+base.4=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2bef40acd81e64311fb1dbf218bddf4d521527c
+base.3=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/2/protobuf-java-2.3.0_07c49d6b7bf9c8c7a20da662e72d2b8f3209a976
+base.2=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_848ec423861a760f848b140dfc4d7bd1f4dbb4e0
+base.1=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a92b0f1c2ea2917d3e6aaccc57119597c0f39628
+base.0=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_482664bf8be16d4488cf71774a8e5ff88a175d2e
+file.7=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e926f8de143ac53e0c5eb1e8ff02bf350e3bbd7/classes.dex
+file.6=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bce7de5b4ec38a9795cb91151f8b505dbb8e56b/classes.dex
+file.5=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c128a4bf324ab17584ea4ae8c5b570e6b5411558/classes.dex
+file.4=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2bef40acd81e64311fb1dbf218bddf4d521527c/classes.dex
+file.3=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/2/protobuf-java-2.3.0_07c49d6b7bf9c8c7a20da662e72d2b8f3209a976/classes.dex
+file.2=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_848ec423861a760f848b140dfc4d7bd1f4dbb4e0/classes.dex
+file.1=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a92b0f1c2ea2917d3e6aaccc57119597c0f39628/classes.dex
+file.0=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_482664bf8be16d4488cf71774a8e5ff88a175d2e/classes.dex

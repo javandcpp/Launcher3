@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-land-xhdpi/workspace_bg.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-land-xhdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-land-xhdpi/ic_home_voice_search_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-land-xhdpi/ic_home_voice_search_holo.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_application.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/mipmap-xxhdpi/ic_launcher_application.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/on_boarding_welcome.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/mipmap-xxhdpi/on_boarding_welcome.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_home.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/mipmap-xxhdpi/ic_launcher_home.png"
+    }
+]

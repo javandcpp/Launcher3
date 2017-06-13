@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v19/values-sw720dp-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-sw720dp-v19/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 952
+                    }
+                }
+            }
+        ]
+    }
+]

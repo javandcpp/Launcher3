@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/androidTest/debug/layout/actionbar_set_wallpaper.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/debug/res/layout/actionbar_set_wallpaper.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/androidTest/debug/layout/wallpaper_cropper.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/debug/res/layout/wallpaper_cropper.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/androidTest/debug/layout/wallpaper_picker_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/debug/res/layout/wallpaper_picker_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/androidTest/debug/layout/wallpaper_picker_third_party_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/debug/res/layout/wallpaper_picker_third_party_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/androidTest/debug/layout/wallpaper_picker.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/debug/res/layout/wallpaper_picker.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/androidTest/debug/layout/wallpaper_picker_image_picker_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/debug/res/layout/wallpaper_picker_image_picker_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/res/merged/androidTest/debug/layout/wallpaper_picker_live_wallpaper_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/bundles/debug/res/layout/wallpaper_picker_live_wallpaper_item.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/market_button.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-sw720dp/market_button.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/qsb.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-sw720dp/qsb.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/external_widget_drop_list_item.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-sw720dp/external_widget_drop_list_item.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-sw720dp-v13/launcher.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-sw720dp/launcher.xml"
+    }
+]

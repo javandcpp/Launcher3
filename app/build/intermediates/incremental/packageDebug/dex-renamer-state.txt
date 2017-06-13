@@ -1,0 +1,7 @@
+#Tue Jun 13 17:26:20 CST 2017
+base.0=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d8caed14b13299b5364538182e45f17ccbf2331a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_271d36402378f449e58ed8e0fb87179f54cfc7dc/classes.dex
+base.1=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_271d36402378f449e58ed8e0fb87179f54cfc7dc
+file.0=/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d8caed14b13299b5364538182e45f17ccbf2331a/classes.dex

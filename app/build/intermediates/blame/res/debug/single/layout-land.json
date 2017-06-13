@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-land/migration_cling.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-land/migration_cling.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-land/qsb.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-land/qsb.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-land/longpress_cling.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-land/longpress_cling.xml"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/layout-land/launcher.xml",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/layout-land/launcher.xml"
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1095,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 117,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1490,
+                        "endColumn": 121,
+                        "endOffset": 1607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 89,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1860,
+                        "endColumn": 89,
+                        "endOffset": 1945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 96,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 96,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 79,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1695,
+                        "endColumn": 79,
+                        "endOffset": 1770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 84,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1775,
+                        "endColumn": 84,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 111,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 111,
+                        "endOffset": 1485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 82,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1612,
+                        "endColumn": 82,
+                        "endOffset": 1690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 96,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 96,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 114,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-af/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 114,
+                        "endOffset": 1092
+                    }
+                }
+            }
+        ]
+    }
+]

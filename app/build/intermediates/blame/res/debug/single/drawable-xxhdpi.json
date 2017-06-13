@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_info_normal_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_launcher_info_normal_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hotseat_scrubber_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/hotseat_scrubber_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_google_logo_normal_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_home_google_logo_normal_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/widget_resize_handle_left.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/widget_resize_handle_left.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_unselected_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/page_hover_left_active.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/page_hover_left_active.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_voice_search_pressed_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_home_voice_search_pressed_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/quantum_panel_dark.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/quantum_panel_dark.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/apps_customize_bg.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/apps_customize_bg.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/widget_tile.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/widget_tile.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_selected_pressed_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/screenpanel.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/screenpanel.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/workspace_bg.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/workspace_bg.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/search_bg_panel.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/search_bg_panel.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_selected_focused_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/default_widget_preview_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/default_widget_preview_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_allapps.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_allapps.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/virtual_preload.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/virtual_preload.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pageindicator_add.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_pageindicator_add.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/overscroll_glow_right.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/overscroll_glow_right.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_widget.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_widget.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_setting.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_setting.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_voice_search_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/portal_ring_inner_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/portal_ring_inner_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_wallpaper.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_wallpaper.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/screenpanel_hover.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/screenpanel_hover.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/search_frame.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/search_frame.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/portal_ring_rest.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/portal_ring_rest.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_clear_normal_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_launcher_clear_normal_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hotseat_track_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/hotseat_track_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_setting_pressed.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_setting_pressed.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_search_pressed_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_home_search_pressed_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/page_hover_right_active.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/page_hover_right_active.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/arrow_dashed.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/arrow_dashed.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_search_normal_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_home_search_normal_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_trashcan_active_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_launcher_trashcan_active_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/widget_resize_handle_right.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/widget_resize_handle_right.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/portal_container_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/portal_container_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/widget_resize_handle_bottom.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/widget_resize_handle_bottom.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_selected_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hand.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/hand.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_qs_remote_display.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_qs_remote_display.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_google_logo_pressed_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_home_google_logo_pressed_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pageindicator_default.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_pageindicator_default.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/portal_ring_inner_nolip_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/portal_ring_inner_nolip_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_unselected_pressed_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_wallpaper_pressed.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_wallpaper_pressed.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hotseat_bg_panel.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/hotseat_bg_panel.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/portal_ring_outer_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/portal_ring_outer_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cling_bg.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/cling_bg.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_qs_remote_display_connected.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_qs_remote_display_connected.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_widget_pressed.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_widget_pressed.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_clear_active_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_launcher_clear_active_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_all_apps_holo_dark.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_home_all_apps_holo_dark.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/page_hover_right.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/page_hover_right.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/virtual_preload_folder.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/virtual_preload_folder.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_trashcan_normal_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_launcher_trashcan_normal_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_unselected_focused_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/widget_resize_frame_holo.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/widget_resize_frame_holo.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/widget_resize_handle_top.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/widget_resize_handle_top.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/page_hover_left.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/page_hover_left.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_info_active_holo.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_launcher_info_active_holo.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/quantum_panel.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/quantum_panel.9.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_pageindicator_current.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_pageindicator_current.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_allapps_pressed.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/ic_allapps_pressed.png"
+    },
+    {
+        "merged": "/home/qju/AndroidStudioProjects/Launcher3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/overscroll_glow_left.9.png",
+        "source": "/home/qju/AndroidStudioProjects/Launcher3/app/src/main/res/drawable-xxhdpi/overscroll_glow_left.9.png"
+    }
+]

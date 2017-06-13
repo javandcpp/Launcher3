@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-nodpi-v4/values-nodpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 19,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/home/qju/AndroidStudioProjects/Launcher3/wallpaperPicker/src/main/res/values-nodpi/wallpapers.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endLine": 19,
+                        "endColumn": 19,
+                        "endOffset": 732
+                    }
+                }
+            }
+        ]
+    }
+]

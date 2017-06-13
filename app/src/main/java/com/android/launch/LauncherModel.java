@@ -1883,7 +1883,6 @@ public class LauncherModel extends BroadcastReceiver
         private boolean loadWorkspace() {
             // Log to disk
 
-           // String authorityFromPermission = getAuthorityFromPermission(mContext, "com.android.launcher3.permission.READ_SETTINGS");
             Launcher.addDumpLog(TAG, "11683562 - loadWorkspace()", true);
 
             final long t = DEBUG_LOADERS ? SystemClock.uptimeMillis() : 0;
@@ -1933,6 +1932,49 @@ public class LauncherModel extends BroadcastReceiver
                 final Uri contentUri = LauncherSettings.Favorites.CONTENT_URI_NO_NOTIFICATION;
                 if (DEBUG_LOADERS) Log.d(TAG, "loading model from " + contentUri);
                 final Cursor c = contentResolver.query(contentUri, null, null, null, null);
+            /*
+            因为更改了原有的Launcher3包名，在执行上面一行代码时，Cursor为null
+
+            修改：public class ProviderConfig {
+                         public static final String AUTHORITY = "com.android.launcher3.settings";
+
+                         改为：
+                         public static final String AUTHORITY = "com.android.launch.settings";
+                 }
+
+                 com.android.launch为当前包名。
+
+            注意以下注释说明：来源stackoverflow
+            最终是因为包名更改导致的问题。
+
+            The launcher is an Application under the Handset Manufacturer responsibility.
+            The Authority is then not always "com.android.launcher2.settings". The Handset
+             Manufacturer may rewrite its own. It can be "com.android.twlauncher" or
+             anything else depending on the Java package.//
+            You need to retrieve the right authority by searching for a provider that declares the read/write permissions "com.android.launcher.permission.READ_SETTINGS" or "com.android.launcher.permission.WRITE_SETTINGS".
+
+                    This is a sample code to do that:
+
+                    static String getAuthorityFromPermission(Context context, String permission){
+                if (permission == null) return null;
+                List<PackageInfo> packs = context.getPackageManager().getInstalledPackages(PackageManager.GET_PROVIDERS);
+                if (packs != null) {
+                    for (PackageInfo pack : packs) {
+                        ProviderInfo[] providers = pack.providers;
+                        if (providers != null) {
+                            for (ProviderInfo provider : providers) {
+                                if (permission.equals(provider.readPermission)) return provider.authority;
+                                if (permission.equals(provider.writePermission)) return provider.authority;
+                            }
+                        }
+                    }
+                }
+                return null;
+            }
+            */
+
+                // String authorityFromPermission = getAuthorityFromPermission(mContext, "com.android.launcher3.permission.READ_SETTINGS");
+
 
                 // +1 for the hotseat (it can be larger than the workspace)
                 // Load workspace in reverse order to ensure that latest items are loaded first (and

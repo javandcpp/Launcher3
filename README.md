@@ -1,16 +1,7 @@
 # Launcher3
+android 5.0
+
 Launcher3 source code
-
-
-
-
-
-
-
-
-
-
-
 
 
 
